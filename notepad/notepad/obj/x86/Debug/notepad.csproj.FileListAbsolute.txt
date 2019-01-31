@@ -1,0 +1,13 @@
+F:\CSharp\notepad\notepad\bin\Debug\notepad.exe
+F:\CSharp\notepad\notepad\bin\Debug\notepad.pdb
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.exe
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.pdb
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Form2.resources
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Form3.resources
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Form4.resources
+F:\CSharp\notepad\notepad\bin\Debug\EnglishToHindi.dll
+F:\CSharp\notepad\notepad\obj\x86\Debug\notepad.Form6.resources
